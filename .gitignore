@@ -1,0 +1,23 @@
+# Archivos de sistema
+.DS_Store
+Thumbs.db
+
+# Ambientes virtuales
+venv
+env
+
+# Caché de Python
+__pycache__
+.py[cod]
+$py.class
+
+# Archivos temporales
+.tmp
+.log
+
+# Datos sensibles (opcional, descomentar si es necesario)
+# data
+# !datasample_data.csv
+
+# Jupyter
+.ipynb_checkpoints
